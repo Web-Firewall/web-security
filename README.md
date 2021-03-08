@@ -8,3 +8,4 @@
 - [3、关于CSP及其相关实现](./contents/3.md)
 - [4、关于CSRF及其防御](./contents/4.md)
 - [5、Cookies在XSS和CSRF防御中的作用](./contents/5.md)
+- [6、关于点击劫持和防御](./contents/6.md)
