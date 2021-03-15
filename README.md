@@ -14,3 +14,4 @@
 - [9、关于SQL注入及防御](./contents/9.md)
 - [10、关于NOSQL注入及防御](./contents/10.md)
 - [11、上传漏洞及防御](./contents/11.md)
+- [12、关于信息泄露和防御](./contents/12.md)
